@@ -1,0 +1,4 @@
+[
+  { "Id": 1, "Name": "Ministerio de Educación" },
+  { "Id": 2, "Name": "Ministerio de Salud" }
+]
